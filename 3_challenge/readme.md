@@ -1,0 +1,1 @@
+# apply equality to ocr
